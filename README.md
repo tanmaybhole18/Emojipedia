@@ -54,7 +54,7 @@ export default App;
 - This dynamically generates all the emoji entries without manually writing each one.
 
 ## Getting Started
-1. Clone the repository or open it in **CodeSandbox**.
+1. Clone the repository or open it iCn **CodeSandbox**.
 2. Run the React app to see the Emojipedia displayed.
 3. Modify `emojipedia.js` to add more emojis if needed.
 
